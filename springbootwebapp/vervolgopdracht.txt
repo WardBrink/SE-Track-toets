@@ -1,0 +1,10 @@
+Vervolg opdracht
+
+Complimenten, je hebt het eerste deel snel afgerond. Nu tijd voor het vervolg. De directeur heeft bedracht dat hij nog graag een paar uitbreidingen ziet:
+
+- Beheren van de hoeveelheid voorraad (website & REST services)
+- Beheren van klanten (website & REST services)
+
+Met het ontwikkelen van deze functionaliteiten moet je mogelijk zaken doen die je nog nooit eerder hebt gedaan, hier wordt dus je vindingrijkheid op de proef gesteld, kijk goed naar hoe het project verder is ingericht en ik heb er alle vertrouwen in dat je er uit gaat komen.
+
+Good Luck!

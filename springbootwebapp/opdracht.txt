@@ -1,0 +1,23 @@
+Opdracht:
+
+Als eerste, dit project ziet er iets anders uit dan je gewend bent, binnen dit project zullen zaken voor een deel op een andere manier gebeuren dan dat je tot nu toe geleerd hebt, dit is met opzet. In de praktijk zal je namelijk ook allerlij verschillende soorten projecten tegen komen.
+
+De applicatie is een website waarin medewerkers van een t-shirt winkel hun productcatalogus kunnen beheren. Tot nu toe is het bedrijf "Leuke Tshirts BV" erg tevreden over de applicatie alleen nadat de directeur zijn neefje er aan heeft laten werken wil de applicatie niet meer werken.
+
+Het is nu jouw taak om dit te fixen!
+
+Nadat je de applicatie werkend hebt gekregen willen we hem graag uitgebreid zien. De directeur heeft namelijk besloten dat hij graag een mobiele applicatie wilt, deze mobiele applicatie wordt ontwikkeld door een extern bedrijf maar aan jou is gevraagd de API's (rest services) te ontwikkelen.
+
+Ontwikkel de volgende services:
+
+- Toon alle producten
+- Toon enkel product
+- Voeg nieuw product toe
+- Update product
+- Verwijder product
+
+De service zal getest worden door middel van "Postman" en alle communicatie tussen Postman en de webapplicatie moet via JSON formaat.
+
+Samengevat: zorg dat deze applicatie weer werkt, en voeg de REST services hier aan toe. 
+
+(ben je klaar met deze opdracht en is er nog tijd? Ga dan verder met de vervolgopdracht)
